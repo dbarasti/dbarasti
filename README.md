@@ -5,9 +5,9 @@
 -->
 I'm Davide Barasti and I am a software engineer.
 
-🔭 Working in a startup where we are building a platform for developers based on Blockchain  
+🔭 Working in a stealth fintech startup
 
-🌱 I’m currently learning the Rust lang and Substrate
+🌱 I’m currently learning Kafka for event streaming
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
